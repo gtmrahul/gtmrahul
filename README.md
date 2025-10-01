@@ -6,6 +6,10 @@ I'm a final year B.Tech student in **Civil Engineering** at the **Indian Institu
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gtmrahul/gtmrahul/main/dist/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
 ### 🛠️ My Tech Stack
 
 **Languages:**
